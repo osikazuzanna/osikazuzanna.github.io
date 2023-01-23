@@ -81,15 +81,15 @@ analytics:
 # Site Author
 author:
   name             : "Zuzanna Osika"
-  avatar           : "website.jpg"
+  avatar           : "profile.png"
   bio              : "PhD Candidate at Technische Universiteit Delft, Faculty of Electrical Engineering, Mathematics and Computer Science"
   location         : "Delft, NL"
-  employer         :  "https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/interactive-intelligence/people/current-group-members/zuzanna-osika"
+  employer         :  "Technische Universiteit Delft"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.nl/citations?user=R2OlncAAAAAJ&hl=pl&oi=ao"
-  email            :
+  email            :  "z.osika@tudelft.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              :  
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  "https://www.linkedin.com/in/zuzanna-osika/"
+  linkedin         :  "zuzanna-osika/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
