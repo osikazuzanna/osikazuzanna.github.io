@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zuzanna Osika Website"
+title: "Zuzanna Osika"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -21,11 +21,17 @@ PhD Project
 ======
 
 
-Climate change is a pressing global issue that affects all of us on a daily basis. The good news is that with the growing possibilities and development of AI, its potential can be harnessed for society to adapt and mitigate the effects of climate change. AI has already been used in IPCC reports, providing policy makers with direction on where to go and what climate policies would be most beneficial in fighting climate change. Our lab, the HIPPO Lab, aims to build trustworthy, just, and interpretable AI-based decision-support for decision makers in the field of public policy design, specifically in the areas of climate change mitigation and adaptation policies. Given the complexity of these issues and the need for multiple stakeholders and characteristics to be considered, we model them as multi-objective optimization problems and use specific algorithms, such as evolutionary algorithms and reinforcement learning algorithms, to optimize for many conflicting objectives. Unfortunately, these algorithms output a set of optimal solutions, each of which offers trade-offs between conflicting objectives. These solutions are often hard to interpret and trust by decision makers, especially when the decision could affect society. My PhD project aims to build decision-support methods and tools that enable easy exploration of trade-offs by decision makers, making them trust and understand the outputs of AI, as well as building the condifence in designing policies based on these outputs.
+Climate change is a pressing global issue that affects all of us on a daily basis. With the vast development of Artificial Intelligence, its  potential can be harnessed to help the society adapt and mitigate the effects of climate change. The HIPPO Lab aims to build trustworthy, just, and interpretable AI-based decision-support for decision makers in the domain of public policy design, specifically in the areas of climate change mitigation and adaptation policies. Since the world is complex and the issues we deal with usually include multiple stakeholders with conflicting objectives, we use multi-objective optimisation algorithms (such as evolutionary algorithms, reinforcement learning) to model the problems. In contract to single-objective algorithms (majority of ML models), allowing algorithms to optimise for multiple objectives can represent the complexities of the real-world problems better and produce more robust and unbiased solutions. Unfortunately, these algorithms output a set of optimal solutions, each of which offers trade-offs between conflicting objectives. These trade-offs are often hard to interpret and trust by the stakeholders/decision makers, especially when the decisions may affects the wide society. My PhD project aims to build decision-support methods and tools that enable easy exploration of the outputs of multi-objective optimisation algorithms by decision makers, making the human-AI interaction successful. Additionally, these tools would allow to build confidence in designing public policies based on AI recommendations.
 
 
 
 Research interests
 ======
 
-Multi-objective optimisation, explainability, AI-based decision-support, human-AI interactions in the area of public policy, enabling AI to be used in the real world applications in the area of desiging public policies, trustworthy, transparent and explainable AI for climate change mitigation
+My research interests lay in the areas of:
+
+* Multi-objective optimisation
+* Explainable AI
+* AI-based decision-support
+* AI application in the domain of public policies
+* AI-based support for climate change mitigation
