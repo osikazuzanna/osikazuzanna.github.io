@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Comparison of tree-based models performance in prediction of marketing campaign results using Explainable Artificial Intelligence tools"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/master-thesis
+excerpt: 'Master thesis on different explainable techniques'
+date: 2020-10-01
+venue: 'Master thesis'
+paperurl: 'https://www.researchgate.net/profile/Marcin-Chlebus/publication/341914621_COMPARISON_OF_TREE-BASED_MODELS_PERFORMANCE_IN_PREDICTION_OF_MARKETING_CAMPAIGN_RESULTS_USING_EXPLAINABLE_ARTIFICIAL_INTELLIGENCE_TOOLS_MARCIN_CHLEBUS_ZUZANNA_OSIKA_UNIVERSITY_OF_WARSAW_FACULTY_OF_ECO/links/5ed95c3492851c9c5e815902/COMPARISON-OF-TREE-BASED-MODELS-PERFORMANCE-IN-PREDICTION-OF-MARKETING-CAMPAIGN-RESULTS-USING-EXPLAINABLE-ARTIFICIAL-INTELLIGENCE-TOOLS-MARCIN-CHLEBUS-ZUZANNA-OSIKA-UNIVERSITY-OF-WARSAW-FACULTY-OF-ECO.pdf'
+citation: 'Osika, Z; Chlebus, M. (2020). &quot;Comparison of tree-based models performance in prediction of marketing campaign results using Explainable Artificial Intelligence tools.&quot; <i>Master Thesis</i>. '
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Master thesis
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
