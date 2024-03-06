@@ -20,6 +20,8 @@ on the intuitions from the pilot interviews, we develop the initial version of t
 questions for which explanations are potential answers. The XMODM question bank can be valuable resource for both practitioners, e.g., to assist
 them in formulating questions about MODM, and
 researchers, e.g., to assist them in understanding
-what explanations are necessary and why
-[Download paper here](https://www.researchgate.net/profile/Zuzanna-Osika/publication/375748058_Multi-Objective_Decision-Making_Understanding_the_Users'_Explainability_Needs/links/6559e500b86a1d521bf70c5b/Multi-Objective-Decision-Making-Understanding-the-Users-Explainability-Needs.pdf)
+what explanations are necessary.
+
+
+[Read the paper here](https://www.researchgate.net/profile/Zuzanna-Osika/publication/375748058_Multi-Objective_Decision-Making_Understanding_the_Users'_Explainability_Needs/links/6559e500b86a1d521bf70c5b/Multi-Objective-Decision-Making-Understanding-the-Users-Explainability-Needs.pdf)
 
