@@ -3,25 +3,12 @@ title: "What Lies beyond the Pareto Front? A Survey on Decision-Support Methods 
 collection: publications
 permalink: /publication/pareto
 excerpt: 'Literature Review of decision support methods to explore the Pareto front in multi-objective decision making'
-date: 2023-08-01
-venue: 'XAI Workshop at ICJAI 2022'
-citation: 'Osika, Z., Salazar, J. Z., & Murukannaiah, P. K. Multi-Objective Decision-Making: Understanding the Users’ Explainability Needs.'
+date: 2023-08-02
+venue: 'International Joint Conference on Artificial Intelligence, Macau 2023'
+citation: 'Osika, Z., Salazar, J. Z., Roijers D.M., Oliehoek & Murukannaiah F.A., P. K., What Lies beyond the Pareto Front? A Survey on Decision-Support Methods for Multi-Objective Optimization, IJCAI'23, Macau'
 ---
-Multi-objective decision-making (MODM) involves AI (multi-objective optimization) algorithms that produce a set of solutions, and human
-decision makers analyzing the trade-offs among the
-algorithmic solutions to produce a final solution.
-While MODM offers users greater freedom to interact with AI outputs and make decisions, it also
-presents challenges in understanding both the outputs and the process by which they were generated.
-To better understand the users’ needs for explainability in MODM, we conduct pilot interviews with
-researchers who interacted with MODM to identify potential questions the users may ask about
-MODM problems, process, and outputs. Based
-on the intuitions from the pilot interviews, we develop the initial version of the explainable MODM
-(XMODM) question bank. That is, we identify
-questions for which explanations are potential answers. The XMODM question bank can be valuable resource for both practitioners, e.g., to assist
-them in formulating questions about MODM, and
-researchers, e.g., to assist them in understanding
-what explanations are necessary.
+We present a review that unifies decision-support methods for exploring the solutions produced by multi-objective optimization (MOO) algorithms. As MOO is applied to solve diverse problems, approaches for analyzing the trade-offs offered by MOO algorithms are scattered across fields. We provide an overview of the advances on this topic, including methods for visualization, mining the solution set, and uncertainty exploration as well as emerging research directions, including interactivity, explainability, and ethics. We synthesize these methods drawing from different fields of research to build a unified approach, independent of the application. Our goals are to reduce the entry barrier for researchers and practitioners on using MOO algorithms and to provide novel research directions.
 
 
-[Read the paper here](https://www.researchgate.net/profile/Zuzanna-Osika/publication/375748058_Multi-Objective_Decision-Making_Understanding_the_Users'_Explainability_Needs/links/6559e500b86a1d521bf70c5b/Multi-Objective-Decision-Making-Understanding-the-Users-Explainability-Needs.pdf)
+[Read the paper here](https://arxiv.org/pdf/2311.11288.pdf)
 
