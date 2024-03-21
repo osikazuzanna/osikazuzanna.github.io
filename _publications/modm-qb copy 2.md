@@ -1,7 +1,7 @@
 ---
-title: "Multi-Objective Decision-Making: Understanding the Users’ Explainability Needs"
+title: "What Lies beyond the Pareto Front? A Survey on Decision-Support Methods for Multi-Objective Optimization"
 collection: publications
-permalink: /publication/modm-qb
+permalink: /publication/pp
 excerpt: 'We outline the challenges within multi-objective decision making and propose ways they can be expressed and communicated with the users'
 date: 2023-12-01
 venue: 'XAI Workshop at ICJAI 2023'
