@@ -2,9 +2,9 @@
 title: "What Lies beyond the Pareto Front? A Survey on Decision-Support Methods for Multi-Objective Optimization"
 collection: publications
 permalink: /publication/pp
-excerpt: 'We outline the challenges within multi-objective decision making and propose ways they can be expressed and communicated with the users'
+excerpt: 'iterature Review of decision support methods to explore the Pareto front in multi-objective decision making'
 date: 2023-12-01
-venue: 'XAI Workshop at ICJAI 2023'
+venue: 'International Joint Conference on Artificial Intelligence, Macau 2023'
 citation: 'Osika, Z., Salazar, J. Z., & Murukannaiah, P. K. Multi-Objective Decision-Making: Understanding the Users’ Explainability Needs.'
 ---
 Multi-objective decision-making (MODM) involves AI (multi-objective optimization) algorithms that produce a set of solutions, and human
