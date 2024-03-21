@@ -1,5 +1,5 @@
 ---
-title: "blablaComparison of tree-based models performance in prediction of marketing campaign results using Explainable Artificial Intelligence tools"
+title: "Comparison of tree-based models performance in prediction of marketing campaign results using Explainable Artificial Intelligence tools"
 collection: publications
 permalink: /publication/master-thesis
 excerpt: 'Master thesis on different explainable techniques'
