@@ -11,8 +11,8 @@ redirect_from:
 
 
 ---
-# Zuzanna Osika
-PhD researcher: Explainable AI.
+# <center>Zuzanna Osika
+PhD researcher: Explainable AI. </center>
 
 <div id="webaddress">
 <a href="osikazuzanna@gmail.com">osikazuzanna@gmail.com</a>
