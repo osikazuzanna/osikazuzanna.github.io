@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
----
-layout: cv
-title: Zuzanna Osika's CV
+
 ---
 # Zuzanna Osika
 PhD researcher: Explainable AI.
@@ -22,95 +20,84 @@ PhD researcher: Explainable AI.
 </div>
 
 
-## Areas of Expertise
+### Areas of Expertise
 
 Explainable AI - Reinforcement Learning - Multi-Objective Decision-Making - Transparent Decision-Making - Public Policy Design - Climate Change Adaptation - Data Science
 
-### Profile
+## Profile
 
-Working on AI tools to enhance explainability and transparency for Public Policy Design, focusing on climate change policies. Specializing in addressing complex decision-making with diverse objectives and stakeholders. 
+Working on AI tools to enhance explainability and transparency for Public Policy Design, focusing on climate change policies. Specializing in addressing complex decision-making with diverse objectives and stakeholders. <br> 
 *For publications, please refer to [my Google Scholar.](https://scholar.google.com/citations?user=R2OlncAAAAAJ&hl=en)*
 
 
 
-## 
+## Experience 
 
-`1654-1660`
-__The King's School, Grantham.__
+`2022-Present`
+__PhD Candidate, Technical University Delft__ <br>
+- Utilizing AI (reinforcement learning) to tackle societal challenges (e.g. climate change), aiming to develop adaptive and
+transparent public policy solutions.<br>
+- Creating AI explainability tools to assist policy-makers in utilizing AI for decision-making processes. <br>
+- coordinator of a master’s course: Interdisciplinary Advanced AI Project — member of PhD Council — member of working group
+on diversity and inclusion at TU Delf
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2020 - 2022`
+__Socio-Economic Data Scientist, European Space Agency, Oxford__ <br>
 
-- Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Developed web-based dashboards for data visualization. Utilized R, Python, and econometric models for data analysis impacting
+UN Sustainable Development Goals. <br>
+- Presented insights to the representatives of member states
 
-- Fellow
+
+`2019 - 2020`
+__Junior Modelling Analyst, Nielsen, Warsaw__ <br>
+
+- Performed econometric modeling and data analysis in FMCG industry.
+- Automated data tasks in R
 
 
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018-2020`
+__MSc Computer Science and Econometrics, University of Warsaw, PL__ <br>
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Thesis: Comparison of tree-based models’ performance in prediction of
+marketing campaign results using Explainable Artificial Intelligence tools [working paper](https://www.researchgate.net/profile/Marcin-Chlebus/publication/341914621_COMPARISON_OF_TREE-BASED_MODELS_PERFORMANCE_IN_PREDICTION_OF_MARKETING_CAMPAIGN_RESULTS_USING_EXPLAINABLE_ARTIFICIAL_INTELLIGENCE_TOOLS_MARCIN_CHLEBUS_ZUZANNA_OSIKA_UNIVERSITY_OF_WARSAW_FACULTY_OF_ECO/links/5ed95c3492851c9c5e815902/COMPARISON-OF-TREE-BASED-MODELS-PERFORMANCE-IN-PREDICTION-OF-MARKETING-CAMPAIGN-RESULTS-USING-EXPLAINABLE-ARTIFICIAL-INTELLIGENCE-TOOLS-MARCIN-CHLEBUS-ZUZANNA-OSIKA-UNIVERSITY-OF-WARSAW-FACULTY-OF-ECO.pdf)
 
 
 
-## Awards
+`2019`
+__Exchange, University of Bologna, IT__ <br>
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+- Exchange Student at the Department of Statistics. 
+- Relevant Courses: Non-parametric statistics, Methods and Tools for Official Statistics: Population and Health Statistics, Econometrics
 
 
-## Publications
+`2015 - 2018`
+__BSc Computer Science and Econometrics, University of Warsaw, PL__ <br>
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Thesis: Thesis: Tertiary Education Levels and Earnings in Poland and Some Other OECD Countries [published paper](https://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.cejsh-5b87fcbd-ad57-46be-a5c4-ef60f7278194)
 
 
 
-<!-- ### Footer
+## Skills
 
-Last updated: May 2013 -->
+### Technical & Software
+Python (numpy, pytorch, pandas, gym, plotly), R (R shiny, plotly), SQL, Stata, Power BI,
+Adobe Illustrator, MS Office 
+
+### Interpersonal 
+Presentation of complex concepts in an approachable way, Leadership, Organized, Creative Problem-
+Solving, Active Listening & Empathy, Adaptability, Analytical Thinking
+
+## Languages
+
+- Polish (native)
+- English (advanced)
+- Dutch (basic) - learning
+
+
 
