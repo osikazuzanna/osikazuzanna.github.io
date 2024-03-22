@@ -9,144 +9,108 @@ redirect_from:
 
 {% include base_path %}
 
-<p align=center>
-**PhD researcher: Explainable AI**
+---
+layout: cv
+title: Zuzanna Osika's CV
+---
+# Zuzanna Osika
+PhD researcher: Explainable AI.
 
-<p align=center>
-  --------------- ------------------------ -----------
-   +48 791645562   osikazuzanna@gmail.com   Delft, NL
-  --------------- ------------------------ -----------
+<div id="webaddress">
+<a href="osikazuzanna@gmail.com">osikazuzanna@gmail.com</a>
+| <a href="linkedin.com/zuzanna-osika">LinkedIn</a>
+</div>
 
-<p align=center>
-  ---------------------------------------------------------------- --------------------------------------------------
-   [in/zuzanna-osika](https://www.linkedin.com/in/zuzanna-osika/)   [osikazuzanna.github.io](osikazuzanna.github.io)
-  ---------------------------------------------------------------- --------------------------------------------------
-:::
 
-# Profile
+## Areas of Expertise
 
-Working on AI tools to enhance explainability and transparency for
-Public Policy Design, focusing on climate change policies. Specializing
-in addressing complex decision-making with diverse objectives and
-stakeholders.\
-*For publications, please refer to [my Google
-Scholar.](https://scholar.google.com/citations?user=R2OlncAAAAAJ&hl=en)*
+Explainable AI - Reinforcement Learning - Multi-Objective Decision-Making - Transparent Decision-Making - Public Policy Design - Climate Change Adaptation - Data Science
 
-# Areas of Expertise
+### Profile
 
-Explainable AI - Reinforcement Learning - Multi-Objective
-Decision-Making - Transparent Decision-Making - Public Policy Design -
-Climate Change Adaptation - Data Science
+Working on AI tools to enhance explainability and transparency for Public Policy Design, focusing on climate change policies. Specializing in addressing complex decision-making with diverse objectives and stakeholders. 
+*For publications, please refer to [my Google Scholar.](https://scholar.google.com/citations?user=R2OlncAAAAAJ&hl=en)*
 
-# Experience
 
-  ------------------------------------------------------------------------------------------------------
-  **PhD Condidate,**  *[(HIPPO Lab, Technical University Delft)](https://www.tudelft.nl/ai/hippo-lab)*
-  ------------------------------------------------------------------------------------------------------
 
-  ------------------------------------
-  **Delft, NL**  *04/2022 ‐ present*
-  ------------------------------------
+## 
 
-&
+`1654-1660`
+__The King's School, Grantham.__
 
--   Utilizing AI (reinforcement learning) to tackle societal challenges
-    (e.g. climate change), aiming to develop adaptive and transparent
-    public policy solutions.
+`June 1661 - now`
+__Trinity College, Cambridge__
 
--   Creating AI explainability tools to assist policy-makers in
-    utilizing AI for decision-making processes.
+- Sizar
 
--   coordinator of a master's course: *Interdisciplinary Advanced AI
-    Project* \| member of PhD Council \| member of working group on
-    diversity and inclusion at TU Delft
+`1667 - death`
+__Trinity College, Cambridge__
 
-&
+- Fellow
 
-  ------------------------------------------------------------------------------------------------------------------------------
-  **Socio-Economic Data Scientist (YGT),**  *[(European Space Agency)](https://www.esa.int/About_Us/Corporate_news/ESA_ECSAT)*
-  ------------------------------------------------------------------------------------------------------------------------------
 
-  -------------------------------------
-  **Oxford, UK**  *09/2020 ‐ 03/2022*
-  -------------------------------------
 
-&
 
--   Developed web-based dashboards for data visualization. Utilized R,
-    Python, and econometric models for data analysis impacting UN
-    Sustainable Development Goals.
+## Education
 
--   Presented insights to the representatives of member states
+`1654-1660`
+__The King's School, Grantham.__
 
-&
+`June 1661 - now`
+__Trinity College, Cambridge__
 
-  ------------------------------------------------------------------------
-  **Junior Modelling Analyst,**  *[(Nielsen)](https://www.nielsen.com/)*
-  ------------------------------------------------------------------------
+- Sizar
 
-  -------------------------------------
-  **Warsaw, PL**  *10/2019 ‐ 08/2020*
-  -------------------------------------
+`1667 - death`
+__Trinity College, Cambridge__
 
-&
+- Fellow
 
--   Performed econometric modeling and data analysis in FMCG industry.
 
--   Automated data tasks in R.
 
-&
+## Awards
 
-# Education
+`2012`
+President, *Royal Society*, London, UK
 
-  ---------------------------------------------------------------------------------------------------
-  **MSc Computer Science and Econometrics**  *[University of Warsaw](https://www.wne.uw.edu.pl/en)*
-  ---------------------------------------------------------------------------------------------------
+Associate, *French Academy of Science*, Paris, France
 
-  -----------------------------
-  **Warsaw, PL**  *2018-2020*
-  -----------------------------
 
-&&
 
-  -----------------------------------------------------------
-  **Exchange**  *[University of Bologna](https://unibo.it)*
-  -----------------------------------------------------------
+## Publications
 
-  -------------------------
-  **Bologna, IT**  *2019*
-  -------------------------
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-&&
+### Journals
 
-  ---------------------------------------------------------------------------------------------------
-  **BSc Computer Science and Econometrics**  *[University of Warsaw](https://www.wne.uw.edu.pl/en)*
-  ---------------------------------------------------------------------------------------------------
+`1669`
+Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
 
-  -----------------------------
-  **Warsaw, PL**  *2015-2018*
-  -----------------------------
+`1669`
+Lectiones opticæ.
 
-&&
+etc. etc. etc.
 
-# Skills
+### Patents
 
--   **Technical & Software:** Python (numpy, pytorch, pandas, gym,
-    plotly), R (R shiny, plotly), SQL, Stata, Power BI, Adobe
-    Illustrator, MS Office
+`2012`
+Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
--   **Interpersonal:** Presentation of complex concepts in an
-    approachable way, Leadership, Organized, Creative Problem-Solving,
-    Active Listening & Empathy, Adaptability, Analytical Thinking
 
-# Languages
+## Occupation
 
-::: multicols
-2
+`1600`
+__Royal Mint__, London
 
--   **Polish** \[Native\]
+- Warden
+- Minted coins
 
--   **English** \[Advanced\]
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
 
--   **Dutch** \[Basic\] - Learning
-:::
+
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
+
