@@ -20,7 +20,7 @@ PhD researcher: Explainable AI. </center>
 </div>
 
 
-### Areas of Expertise
+### Areas of Interest
 
 Explainable AI - Reinforcement Learning - Multi-Objective Decision-Making - Transparent Decision-Making - Public Policy Design - Climate Change Adaptation - Data Science
 
