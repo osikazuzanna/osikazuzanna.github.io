@@ -29,7 +29,7 @@ Since the world is complex and the issues we deal with usually include multiple 
 
  In contract to single-objective algorithms (majority of ML models), allowing algorithms to optimize for multiple objectives can represent the complexities of the real-world problems better and produce more robust and unbiased solutions. Unfortunately, these algorithms output a set of optimal solutions, where each offers trade-offs between conflicting objectives. These trade-offs are often hard to interpret and trust by the stakeholders/decision makers, especially when the decisions may affects the wide society. My PhD project aims to build decision-support methods and tools that enable easy exploration of the outputs of multi-objective reinforcement learning algorithms by decision makers, making the human-AI interaction successful. Additionally, these tools would allow to build confidence in designing public policies based on AI recommendations.
 
-In my research, I aim to combine technical research (developing tools and methods) with user studies and AI-human interactions. In my opinion, combination of technical research with more qualitative research on humans' needs when interacting with AI is a crucial step with ongoing **AI-revolution**. For specific projects within my PhD, please refer to **My PhD Projects** tab in the menu. 
+In my research, I aim to combine technical research (developing tools and methods) with user studies and AI-human interactions. In my opinion, combination of technical research with more qualitative research on humans' needs when interacting with AI is a crucial step with ongoing *AI-revolution*. For specific projects within my PhD, please refer to **My PhD Projects** tab in the menu. 
 
 
 
@@ -45,3 +45,10 @@ My research interests lay in the areas of:
 * Policy-Making
 * AI application in the domain of public policies
 * AI-based support for climate change mitigation and adaptation
+
+Other activites & Teaching
+======
+
+- I am an active member of my faculty's PhD Council, where we raise issues PhD face and try to address them. 
+- I also coordinate 15EC master's course, Interdisciplinary Advance AI Project happening in Q5. 
+- If you are interested in writing your master thesis with me, refer to my PhD Projects and see if you are interested in working with me on them
