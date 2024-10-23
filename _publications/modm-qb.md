@@ -1,9 +1,9 @@
 ---
 title: "Navigating Trade-offs: Policy Summarization for Multi-Objective Reinforcement Learning"
 collection: publications
-permalink: /publication/pp
+permalink: /publication/bb
 excerpt: 'Bi-Objective Clustering Algorithm for Summarizing MORL's Outputs'
-date: 2024-12-01
+date: 2023-12-01
 venue: 'Frontiers in Artifical Intelligence and Applications, Volume 392: ECAI 2024'
 citation: 'Osika, Z., Zatarain Salazar, J., Oliehoek, F. A., & Murukannaiah, P. K. (2024). Navigating Trade-offs: Policy Summarization for Multi-Objective Reinforcement Learning. In Frontiers in Artificial Intelligence and Applications, 392: ECAI 2024 (pp. 2919–2926).'
 ---
