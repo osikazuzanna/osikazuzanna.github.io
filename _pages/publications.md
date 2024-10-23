@@ -10,7 +10,7 @@ author_profile: true
 - **Navigating Trade-offs: Policy Summarization for Multi-Objective Reinforcement Learning**  
   *Frontiers in Artificial Intelligence and Applications, Volume 392: ECAI 2024*  
   Osika, Z., Zatarain Salazar, J., Oliehoek, F. A., & Murukannaiah, P. K. (2024). "Navigating Trade-offs: Policy Summarization for Multi-Objective Reinforcement Learning." _Frontiers in Artificial Intelligence and Applications, 392: ECAI 2024 (pp. 2919–2926)._  
-  [Read the paper here](https://ebooks.iospress.nl/doi/10.3233/FAIA240830)
+  [Read the paper here](https://ebooks.iospress.nl/doi/10.3233/FAIA240830#:~:text=real%2Dworld%20application.-,Download,-Contact)
 
 - **What Lies beyond the Pareto Front? A Survey on Decision-Support Methods for Multi-Objective Optimization**  
   *International Joint Conference on Artificial Intelligence, Macau 2023*  
