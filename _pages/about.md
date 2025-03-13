@@ -21,11 +21,11 @@ PhD Project
 ======
 
 
-Climate change is a pressing global issue that affects all of us on daily basis. With the vast development of Artificial Intelligence, its  potential can be harnessed to help the society adapt and mitigate the effects of climate change. 
+Climate change is a pressing global issue that affects all of us on daily basis. With the vast development of Artificial Intelligence, its  potential can be harnessed to help the society adapt and mitigate the effects of climate change. Specifically, I mostly focus on problems related to the efficient management of water resources resilient to the changing climate.
 
 The HIPPO Lab aims to build trustworthy, just, and interpretable AI-based decision-support for decision makers in the domain of public policy design, specifically in the areas of climate change mitigation and adaptation policies. 
 
-Since the world is complex and the issues we deal with usually include multiple stakeholders with conflicting objectives, we use algorithms to solve multi-objective decision-making problems. Additionally, we aim to design **adaptive** policies, which are flexible to chaning climate. For all of these reasons, our lab uses Multi-Objective Reinforcement Learning  algorithms to produce many policies, which offer different trade-offs and offer more information to the decision-makers. 
+Since the world is complex and the issues we deal with usually include multiple stakeholders with conflicting objectives, we use algorithms to solve multi-objective decision-making problems. Additionally, we aim to design **adaptive** policies, which are flexible to changing climate. For all of these reasons, our lab uses Multi-Objective Reinforcement Learning  algorithms to produce many policies, which offer different trade-offs and offer more information to the decision-makers. 
 
  In contract to single-objective algorithms (majority of ML models), allowing algorithms to optimize for multiple objectives can represent the complexities of the real-world problems better and produce more robust and unbiased solutions. Unfortunately, these algorithms output a set of optimal solutions, where each offers trade-offs between conflicting objectives. These trade-offs are often hard to interpret and trust by the stakeholders/decision makers, especially when the decisions may affects the wide society. My PhD project aims to build decision-support methods and tools that enable easy exploration of the outputs of multi-objective reinforcement learning algorithms by decision makers, making the human-AI interaction successful. Additionally, these tools would allow to build confidence in designing public policies based on AI recommendations.
 
@@ -38,7 +38,7 @@ Research interests
 
 My research interests lay in the areas of:
 
-* Multi-Objective Sequential Decision-Making
+* Applied Reinforcement Learning
 * Multi-Objective Reinforcement Learning
 * Explainable AI
 * AI-based decision-support
@@ -50,5 +50,5 @@ Other activites & Teaching
 ======
 
 - I am an active member of my faculty's PhD Council, where we raise issues PhD face and try to address them. 
-- I also coordinate 15EC master's course, Interdisciplinary Advance AI Project happening in Q5. 
-- If you are interested in writing your master thesis with me, refer to my PhD Projects and see if you are interested in working with me on them
+- I also coordinate AI projects within Joint Interdisciplinary Project at TU Delft
+- If you are interested in collaborating on a project with me or writing your master thesis, please refer to Open Calls Section of my website
