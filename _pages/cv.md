@@ -19,10 +19,10 @@ redirect_from:
 </p>
 
 <p align="center">
-<div id="webaddress">
+
     <a href="mailto:osikazuzanna@gmail.com">osikazuzanna@gmail.com</a> | 
     <a href="https://linkedin.com/in/zuzanna-osika">LinkedIn</a>
-  </div>
+
 </p>
 
 
