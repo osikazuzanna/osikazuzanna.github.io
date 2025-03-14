@@ -21,10 +21,10 @@ redirect_from:
   
 </p>
 
-|                |
-|:--------------:|
-| [osikazuzanna@gmail.com](mailto:osikazuzanna@gmail.com) | 
-| [LinkedIn](https://linkedin.com/in/zuzanna-osika) |
+**Zuzanna Osika**  
+PhD Student in Applied Reinforcement Learning.  
+Mail: [osikazuzanna@gmail.com](mailto:osikazuzanna@gmail.com)  
+LinkedIn: [in/zuzanna-osika](https://linkedin.com/in/zuzanna-osika)
 
 
 
