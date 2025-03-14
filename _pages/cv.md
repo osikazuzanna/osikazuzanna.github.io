@@ -19,9 +19,11 @@ redirect_from:
   
 </p>
 
-| Contact Info |
-|:-------------:|
-| [osikazuzanna@gmail.com](mailto:osikazuzanna@gmail.com) | [LinkedIn](https://linkedin.com/in/zuzanna-osika) |
+|                |
+|:--------------:|
+| [osikazuzanna@gmail.com](mailto:osikazuzanna@gmail.com) | 
+| [LinkedIn](https://linkedin.com/in/zuzanna-osika) |
+
 
 
 
