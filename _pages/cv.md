@@ -17,8 +17,8 @@ redirect_from:
 
 
 
-<center>***Zuzanna Osika***</center>
-<center>PhD Student in Applied Reinforcement Learning.</center> 
+<h1 style="text-align:center;">Zuzanna Osika</h1>
+<p style="text-align:center;">PhD Student in Applied Reinforcement Learning.</p>
 
 
 
