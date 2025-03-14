@@ -11,8 +11,11 @@ redirect_from:
 
 
 ---
-# <center>Zuzanna Osika</center>
-<center>PhD researcher: Explainable AI.</center> 
+<p align="center">
+  <strong>Zuzanna Osika</strong><br>
+  PhD Student in Applied Reinforcement Learning.
+</p>
+
 
 <div id="webaddress">
 <a href="osikazuzanna@gmail.com">osikazuzanna@gmail.com</a>
@@ -20,13 +23,13 @@ redirect_from:
 </div>
 
 
-### Areas of Interest
+### Profile
 
-Explainable AI - Reinforcement Learning - Multi-Objective Decision-Making - Transparent Decision-Making - Public Policy Design - Climate Change Adaptation - Data Science
+Reinforcement Learning - Multi-Objective Decision-Making - Human-AI Interactions - Water Resource Management - Public Policy Design - Climate Change Adaptation - Data Science
 
 ## Profile
 
-Working on AI tools to enhance explainability and transparency for Public Policy Design, focusing on climate change policies. Specializing in addressing complex decision-making with diverse objectives and stakeholders. <br> 
+I am a third-year PhD student at TU Delft, working on enabling real-world application of multi-objective reinforcement learning. Specifically, I focus on real-world problems from the area of managing water resources with the use of AI, with multiple actors and objectives. Within my PhD, I work in the intersection of computer science, policy analysis, and civil engineering. <br> 
 *For publications, please refer to [my Google Scholar.](https://scholar.google.com/citations?user=R2OlncAAAAAJ&hl=en)*
 
 
@@ -35,29 +38,33 @@ Working on AI tools to enhance explainability and transparency for Public Policy
 
 `2022-Present`
 __PhD Candidate, Technical University Delft__ <br>
-- Utilizing AI (reinforcement learning) to tackle societal challenges (e.g. climate change), aiming to develop adaptive and
-transparent public policy solutions.<br>
-- Creating AI explainability tools to assist policy-makers in utilizing AI for decision-making processes. <br>
-- coordinator of a master’s course: Interdisciplinary Advanced AI Project — member of PhD Council — member of working group
-on diversity and inclusion at TU Delf
+-Working on the practical application of multi-objective reinforcement learning (MORL) for complex problems with multiple actors (water resource management)
+-Developing algorithms to assist policy-makers in utilizing MORL for complex decision-making processes
 
 `2020 - 2022`
 __Socio-Economic Data Scientist, European Space Agency, Oxford__ <br>
 
 
-- Developed web-based dashboards for data visualization. Utilized R, Python, and econometric models for data analysis impacting
-UN Sustainable Development Goals. <br>
-- Presented insights to the representatives of member states
+-Developed web-based dashboards (R Shiny) for data visualization of the space industry for ESA member states.
+-Worked with econometric and causal models for estimating the impact of space investments on UN's Sustainable Development Goals. The work has been presented at the International Astronautical Congress 2021 [see abstract](https://dl.iafastro.directory/event/IAC-2021/paper/61877/)
+-Conducted surveys among businesses within the European space industry to gather data and presented the insights to the member states
 
 
 `2019 - 2020`
 __Junior Modelling Analyst, Nielsen, Warsaw__ <br>
 
-- Performed econometric modeling and data analysis in FMCG industry.
-- Automated data tasks in R
+-Performed econometric modeling and data analysis on marketing campaigns' impact on sales within the FMCG industry.
+-Automated data tasks in R.
 
 
+`2016 - 2019`
+__Internships & Other__ <br>
 
+-Analytics & Insights IT Trainee (6 months) at <span style="color:blue">Procter & Gamble</span> (was offered a full-time offer afterwards)
+
+-Robotics Process Automation (RPA) Business Analyst (9 months) at <span style="color:blue">Accenture</span>
+
+-Finance Intern (3 months) at <span style="color:blue">Citi Bank</span>
 
 ## Education
 
