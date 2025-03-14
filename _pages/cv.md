@@ -19,7 +19,11 @@ redirect_from:
   
 </p>
 
-[osikazuzanna@gmail.com](mailto:osikazuzanna@gmail.com) | [LinkedIn](https://linkedin.com/in/zuzanna-osika)
+<div style="text-align: center;">
+    <a href="mailto:osikazuzanna@gmail.com">osikazuzanna@gmail.com</a> | 
+    <a href="https://linkedin.com/in/zuzanna-osika">LinkedIn</a>
+</div>
+
 
 
 
