@@ -12,19 +12,16 @@ redirect_from:
 
 ---
 <p align="center">
-  <strong>Zuzanna Osika</strong><br>
-  PhD Student in Applied Reinforcement Learning.
+  <strong><h1>Zuzanna Osika</h1></strong>
+  PhD Student in Applied Reinforcement Learning.<br>
   <div id="webaddress">
-<a href="osikazuzanna@gmail.com">osikazuzanna@gmail.com</a>
-| <a href="linkedin.com/zuzanna-osika">LinkedIn</a>
-</div>
+    <a href="mailto:osikazuzanna@gmail.com">osikazuzanna@gmail.com</a> | 
+    <a href="https://linkedin.com/in/zuzanna-osika">LinkedIn</a>
+  </div>
 </p>
 
 
-<div id="webaddress">
-<a href="osikazuzanna@gmail.com">osikazuzanna@gmail.com</a>
-| <a href="linkedin.com/zuzanna-osika">LinkedIn</a>
-</div>
+
 
 
 ### Profile
