@@ -16,6 +16,8 @@ redirect_from:
 <p align="center">
   <strong>Zuzanna Osika</strong><br>
   PhD Student in Applied Reinforcement Learning.
+  Mail: [osikazuzanna@gmail.com](mailto:osikazuzanna@gmail.com)
+  LinkedIn: [in/zuzanna-osika](https://linkedin.com/in/zuzanna-osika)
   
 </p>
 
