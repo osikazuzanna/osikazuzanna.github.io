@@ -12,8 +12,8 @@ main:
   - title: "PhD Projects"
     url: /portfolio/
         
-  - title: "Open Calls"
-    url: /year-archive/
+  #- title: "Open Calls"
+  #  url: /year-archive/
     
   - title: "CV"
     url: /cv/
