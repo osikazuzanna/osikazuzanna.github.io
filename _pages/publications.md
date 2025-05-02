@@ -10,13 +10,13 @@ author_profile: true
 
 - **Exploring Equity of Climate Policies using Multi-Agent Multi-Objective Reinforcement Learning**  
   *Accepted to International Joint Conference on Artifial Intelligence, Montreal 2025*  
-  Biswas, P.$^{*}$, Osika, Z.$^{*}$, Tamassia, I.$^{*}$, Whorra, A.$^{*}$, Zatarain-Salazar, J., Kwakkel, J., Oliehoek, F. A., & Murukannaiah, P. K. (2025). "Exploring Equity of Climate Policies using Multi-Agent Multi-Objective Reinforcement Learning." _IJCAI, Montral 2025_  
-  [Read the paper here](https://arxiv.org/search/cs?searchtype=author&query=Osika,+Z))
+  Biswas, P.\*, Osika, Z.$^{*}$, Tamassia, I.$^{*}$, Whorra, A.$^{*}$, Zatarain-Salazar, J., Kwakkel, J., Oliehoek, F. A., & Murukannaiah, P. K. (2025). "Exploring Equity of Climate Policies using Multi-Agent Multi-Objective Reinforcement Learning." _IJCAI, Montral 2025_  
+  [Read the paper here](https://arxiv.org/search/cs?searchtype=author&query=Osika,+Z)
 
 - **Multi-Objective Reinforcement Learning for Water Management**  
   *Accepted to International Conference on Autonomous Agents and Multiagent Systems, Detroit 2025*  
   Osika, Z., Radelescu R., Zatarain-Salazar, J., Oliehoek, F. A., & Murukannaiah, P. K. (2025). "Multi-Objective Reinforcement Learning for Water Management." _AAMAS, Detroit 2025_  
-  [Read the paper here](https://arxiv.org/search/cs?searchtype=author&query=Osika,+Z))
+  [Read the paper here](https://arxiv.org/search/cs?searchtype=author&query=Osika,+Z)
 
 - **Navigating Trade-offs: Policy Summarization for Multi-Objective Reinforcement Learning**  
   *Frontiers in Artificial Intelligence and Applications, Volume 392: ECAI 2024*  
