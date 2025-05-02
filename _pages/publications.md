@@ -10,7 +10,7 @@ author_profile: true
 
 - **Exploring Equity of Climate Policies using Multi-Agent Multi-Objective Reinforcement Learning**  
   *Accepted to International Joint Conference on Artifial Intelligence, Montreal 2025*  
-  Biswas, P.^{*}, Osika, Z.*, Tamassia, I.*, Whorra, A.*, Zatarain-Salazar, J., Kwakkel, J., Oliehoek, F. A., & Murukannaiah, P. K. (2025). "Exploring Equity of Climate Policies using Multi-Agent Multi-Objective Reinforcement Learning." _IJCAI, Montral 2025_  
+  Biswas^{*}, P., Osika, Z.*, Tamassia, I.*, Whorra, A.*, Zatarain-Salazar, J., Kwakkel, J., Oliehoek, F. A., & Murukannaiah, P. K. (2025). "Exploring Equity of Climate Policies using Multi-Agent Multi-Objective Reinforcement Learning." _IJCAI, Montral 2025_  
   [Read the paper here](https://arxiv.org/search/cs?searchtype=author&query=Osika,+Z))
 
 - **Multi-Objective Reinforcement Learning for Water Management**  
