@@ -13,27 +13,35 @@ I am a third year PhD Student (5 year PhD program) at Technical University Delft
 
 My background and experience
 ======
- I obtained MSc in Computer Science and Econometrics from the University of Warsaw (Poland) in 2020. Between my MSc studies and the current position at TU Delft, I worked at the European Space Agency (ESA) for 1.5 years as a Young Graduate Trainee (YGT) in the domain of socio-economic data science in Oxford, United Kingdom.
+ I obtained MSc in Computer Science and Econometrics from the University of Warsaw (Poland) in 2020. Between my MSc studies and the current position at TU Delft, I worked at the European Space Agency (ESA) for 1.5 years as a Data Scientist Young Graduate Trainee (YGT) in the domain of socio-economic data in Oxford, United Kingdom.
 
 
 
-PhD Project
+Research
 ======
 
+Climate change and other societal challenges demand decisions that balance multiple, often conflicting objectives across complex and uncertain environments. My research focuses on developing applied reinforcement learning methods to support such complex decision-making processes, particularly in domains like climate adaptation and sustainable resource management.
 
-Climate change is a pressing global issue that affects all of us on daily basis. With the vast development of Artificial Intelligence, its  potential can be harnessed to help the society adapt and mitigate the effects of climate change. Specifically, I mostly focus on problems related to the efficient management of water resources resilient to the changing climate.
+At the HIPPO Lab, we aim to build trustworthy, interpretable, and just AI-based decision-support systems for public policy design. These systems assist decision-makers in exploring the trade-offs inherent in policies for climate change mitigation and adaptation.
 
-The HIPPO Lab aims to build trustworthy, just, and interpretable AI-based decision-support for decision makers in the domain of public policy design, specifically in the areas of climate change mitigation and adaptation policies. 
+My PhD research focuses on Multi-Objective Reinforcement Learning (MORL) — a largely theoretical framework that enables learning across multiple, often conflicting objectives simultaneously. While MORL has significant potential for addressing complex real-world problems involving competing goals and uncertain environments, its application beyond simulation-based settings remains limited.
 
-Since the world is complex and the issues the lab works on usually include multiple stakeholders with conflicting objectives, we use algorithms to solve multi-objective decision-making problems. Additionally, we aim to design **adaptive** policies, which are flexible to changing climate. For all of these reasons, I use Multi-Objective Reinforcement Learning  algorithms to produce many policies, which offer different trade-offs and offer more information to the decision-makers in a transparent and explainable manner.
+To bridge this gap, my work aims to make MORL applicable, interpretable, and explainable for decision-making in real-world contexts. I introduce practical, real-world problems where MORL can offer value, and develop methods and tools that help policymakers explore and understand the resulting trade-offs among learned policies. By combining algorithmic innovation with human-centered design, my research advances the use of reinforcement learning for complex, multi-objective decision-making, ensuring it becomes both usable and trustworthy for real-world applications.
 
- In contract to single-objective algorithms (majority of ML models), allowing algorithms to optimize for multiple objectives can represent the complexities of the real-world problems better and produce more robust and unbiased solutions. Unfortunately, these algorithms output a set of optimal solutions, where each offers trade-offs between conflicting objectives. These trade-offs are often hard to interpret and trust by the stakeholders/decision makers, especially when the decisions may affects the wide society. My PhD project aims to build decision-support methods and tools that enable easy exploration of the outputs of multi-objective reinforcement learning algorithms by decision makers, allowing MORL to be applied in real-world decision making. Additionally, these tools would allow to build confidence in designing public policies based on AI recommendations. The applicability of MORL is currently one of the biggest bottlenecks of these algorithms and I'm trying to address this big gap.
-
-In my research, I apply AI (developing tools and methods) to solve real-world problems, while always taking into account decision-makers. In my opinion, combination of technical research with more qualitative research on humans' needs when interacting with AI is a crucial step with ongoing *AI-revolution*. For specific projects within my PhD, please refer to **My PhD Projects** tab in the menu. 
+For more information on specific projects within my PhD, please refer to the My PhD Projects tab.
 
 
 Recent Highlights
 ======
+
+- **October 2025**
+  Together with KWE, I am looking for an intern for our project on Urban Water Network Design via Multi-Objective Reinforcement Learning. Please contact me for more detials.
+
+- **August 2025**
+  See the results of my work at Earth Systems Lab [here](https://www.youtube.com/watch?v=Pl62YMT5GOU). Our paper was accepted to Climate Change AI Neurips workshop!
+  
+- **June 2025**
+  I was accepted as a Fellowship Researcher in the [Eearh Systems Lab](https://eslab.ai/) to work on uncertainty quanitifcation and real-world deployment of Geospatial Foundation Models.
 
 - **April 29, 2025**  
   📄 My paper *Exploring Equity of Climate Policies using Multi-Agent Multi-Objective Reinforcement Learning* was accepted to **IJCAI 2025**, AI and Social Good Track.
