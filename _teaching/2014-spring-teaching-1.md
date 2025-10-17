@@ -17,7 +17,7 @@ In this project, you will apply **Multi-Objective Reinforcement Learning (MORL)*
 
 ## What You’ll Do
 As an intern, you will:
-- Model the urban water network as a MORL environment using the [mo-gym API](https://github.com/Farama-Foundation/mo-gym).
+- Model the urban water network as a MORL environment using the [mo-gym API](https://mo-gymnasium.farama.org/).
 - Train existing MORL algorithms on this environment and analyse their performance.
 - Document your findings and contribute to research on applying AI to real-world sustainability challenges.
 - Gain valuable work and research experience at **KWR** and **TU Delft**.
