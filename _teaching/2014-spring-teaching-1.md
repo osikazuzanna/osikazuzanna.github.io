@@ -29,11 +29,6 @@ We are looking for a motivated student with the following skills and interests:
 - Enrollment in a Master’s program in Computer Science, Mathematics, or Engineering (or a related field).
 - Interest in water management and sustainability applications.
 
-## Nice-to-Have (Optional)
-- Experience with reinforcement learning libraries (e.g., Stable Baselines3, CleanRL, RLlib).
-- Familiarity with multi-objective optimisation or decision-making problems.
-- Background knowledge in civil/environmental engineering or water resource management.
-
 ## What You’ll Gain
 - Hands-on experience applying state-of-the-art AI techniques to a real-world engineering challenge.
 - Opportunity to work with an interdisciplinary team at the intersection of AI, sustainability, and water systems.
