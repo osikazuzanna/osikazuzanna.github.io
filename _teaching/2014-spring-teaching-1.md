@@ -1,14 +1,13 @@
 ---
-title: "KWR Internship"
+title: "Urban Water Network Design via Multi-Objective Reinforcement Learning"
 collection: teaching
-type: "Internship"
+type: "Paid Internship"
 permalink: /teaching/kwr_internship
-venue: "KWR + TU Delft"
-date: 2026-01-01
+venue: "KWR: Water Research Institute + TU Delft"
 location: "Remote"
 ---
 
-# Internship: Urban Water Network Design via Multi-Objective Reinforcement Learning
+During this internship, you will apply **Multi-Objective Reinforcement Learning (MORL)** to model urban water network design trade-offs (such as balancing cost, pressure reliability, energy use, and emissions) and generate strategies that support utilities in making better long-term decisions.
 
 ## Problem Description
 Water distribution networks are dynamic infrastructures: demand and climate conditions evolve, assets deteriorate, and construction interventions are required to maintain reliable service over a lifecycle that spans several decades. Because the future is highly uncertain, water utilities need planning approaches that can adapt to new information and remain flexible across many possible scenarios. Deep Reinforcement Learning has recently shown promise in tackling such planning problems. However, in practice, utilities do not optimize for a single goal; they must balance multiple objectives such as cost, reliability, pressure, energy use, greenhouse gas emissions, and water quality. 
