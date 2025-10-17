@@ -4,6 +4,7 @@ collection: teaching
 type: "Paid Internship"
 permalink: /teaching/kwr_internship
 venue: "KWR: Water Research Institute + TU Delft"
+date: 2026-01-01
 location: "Remote"
 ---
 
