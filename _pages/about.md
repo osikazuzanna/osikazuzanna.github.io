@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a third year PhD Student (5 year PhD program) at Technical University Delft, where I'm part of the [Interactive Intelligent Group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/interactive-intelligence) at the Intelligent Systems Department of Faculty of Electrical Engineering, Mathematics and Computer Science. My PhD is part of [Delft AI Labs](https://www.tudelft.nl/ai/tu-delft-ai-labs) and I belong to the [HIPPO Lab](https://www.tudelft.nl/ai/hippo-lab/), which aims to build AI-based decision support for addresing complex real-world problems such as climate change mitigation and adaptation.
+I am a final year PhD Student at Technical University Delft, where I'm part of the [Interactive Intelligent Group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/interactive-intelligence) at the Intelligent Systems Department of Faculty of Electrical Engineering, Mathematics and Computer Science. My PhD is part of [Delft AI Labs](https://www.tudelft.nl/ai/tu-delft-ai-labs) and I belong to the [HIPPO Lab](https://www.tudelft.nl/ai/hippo-lab/), which aims to build AI-based decision support for addresing complex real-world problems such as climate change mitigation and adaptation.
 
 My background and experience
 ======
